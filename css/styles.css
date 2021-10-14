@@ -3,6 +3,22 @@
 }
 
 .adopt img{
-  width: 400px;
+  width: 50%;
   height: auto;
 }
+
+.box1 {
+  background-color: orange;
+  float: right;
+}
+
+/* .box2 {
+  background-color: azure;
+  float: left;
+} */
+
+.box3 {
+  background-color:blue;
+  float: left;
+}
+
